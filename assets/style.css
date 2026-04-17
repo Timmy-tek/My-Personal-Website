@@ -93,10 +93,6 @@ blockquote {
   color: var(--color-white-100);
 }
 
-ion-icon {
-  --ionicon-stroke-width: 20px;
-}
-
 .container {
   position: relative;
   max-width: 1440px;
